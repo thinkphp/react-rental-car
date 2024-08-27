@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/react-rental-car/static/css/main.4585a5cd.css",
-    "main.js": "/react-rental-car/static/js/main.d9a93122.js",
+    "main.js": "/react-rental-car/static/js/main.f02126da.js",
     "static/css/61.f30708ae.chunk.css": "/react-rental-car/static/css/61.f30708ae.chunk.css",
-    "static/js/61.4dcbaa41.chunk.js": "/react-rental-car/static/js/61.4dcbaa41.chunk.js",
+    "static/js/61.6f3ce23d.chunk.js": "/react-rental-car/static/js/61.6f3ce23d.chunk.js",
     "static/js/321.a60e7062.chunk.js": "/react-rental-car/static/js/321.a60e7062.chunk.js",
     "static/js/415.3fd0fb26.chunk.js": "/react-rental-car/static/js/415.3fd0fb26.chunk.js",
     "static/js/418.7d21d1cc.chunk.js": "/react-rental-car/static/js/418.7d21d1cc.chunk.js",
@@ -27,15 +27,15 @@
     "static/media/rectangle.svg": "/react-rental-car/static/media/rectangle.47d915e4f1dfc3f8d1936f5b9b7e2e8e.svg",
     "static/media/Line.svg": "/react-rental-car/static/media/Line.023cb315e23fd3a45028ec493ac0d6d3.svg",
     "main.4585a5cd.css.map": "/react-rental-car/static/css/main.4585a5cd.css.map",
-    "main.d9a93122.js.map": "/react-rental-car/static/js/main.d9a93122.js.map",
+    "main.f02126da.js.map": "/react-rental-car/static/js/main.f02126da.js.map",
     "61.f30708ae.chunk.css.map": "/react-rental-car/static/css/61.f30708ae.chunk.css.map",
-    "61.4dcbaa41.chunk.js.map": "/react-rental-car/static/js/61.4dcbaa41.chunk.js.map",
+    "61.6f3ce23d.chunk.js.map": "/react-rental-car/static/js/61.6f3ce23d.chunk.js.map",
     "321.a60e7062.chunk.js.map": "/react-rental-car/static/js/321.a60e7062.chunk.js.map",
     "415.3fd0fb26.chunk.js.map": "/react-rental-car/static/js/415.3fd0fb26.chunk.js.map",
     "418.7d21d1cc.chunk.js.map": "/react-rental-car/static/js/418.7d21d1cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4585a5cd.css",
-    "static/js/main.d9a93122.js"
+    "static/js/main.f02126da.js"
   ]
 }

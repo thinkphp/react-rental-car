@@ -52,7 +52,7 @@ function HomePage() {
       <WrapperHero>
         <WrapperTitle>
           <Title>
-            Find, book, and rental car in <Span>Easy</Span> steps.
+            Find, book, and rental car in <Span>Easy</Span> steps in <Span>Focsani, Vrancea</Span>.
           </Title>
           <Text>
             Get a car wherever and whenever you need it with your iOS or Android
